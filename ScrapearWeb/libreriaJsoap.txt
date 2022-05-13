@@ -1,0 +1,6 @@
+Descarga la libreria jsoup 
+es una biblioteca de Java para trabajar con HTML del mundo real.
+Proporciona una API muy conveniente para obtener URL y extraer y manipular datos,
+utilizando lo mejor de los métodos DOM de HTML5 y los selectores de CSS
+
+Link Descarga:   https://jsoup.org/download
