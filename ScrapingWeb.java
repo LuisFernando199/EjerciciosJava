@@ -1,3 +1,5 @@
+/* Srapear la web de 20Minutos y obtener los H1 y los párrafos. */
+
 package scrapingweb;
 
 import org.jsoup.Jsoup;
